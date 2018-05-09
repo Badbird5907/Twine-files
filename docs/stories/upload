@@ -10,7 +10,4 @@ function myFunction() {
     document.body.appendChild(x);
 }
 </script>
-
-
-
 </body></html>
